@@ -1,0 +1,10 @@
+extract:
+  Contact:
+    fields:
+    - LastName
+    - FirstName
+    - AccountId
+  Account:
+    fields:
+    - Name
+    - Type
